@@ -36,3 +36,5 @@ https://towardsdatascience.com/learning-to-rank-with-python-scikit-learn-327a5cf
 https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf
 https://opensourceconnections.com/blog/2017/02/24/what-is-learning-to-rank/
+
+https://people.orie.cornell.edu/dpw/talks/RankAggDec2012.pdf
