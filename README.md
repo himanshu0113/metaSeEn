@@ -38,3 +38,6 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-
 https://opensourceconnections.com/blog/2017/02/24/what-is-learning-to-rank/
 
 https://people.orie.cornell.edu/dpw/talks/RankAggDec2012.pdf
+
+
+Book: Learning to Rank http://www.cda.cn/uploadfile/image/20151220/20151220115436_46293.pdf
