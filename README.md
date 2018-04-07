@@ -39,5 +39,7 @@ https://opensourceconnections.com/blog/2017/02/24/what-is-learning-to-rank/
 
 https://people.orie.cornell.edu/dpw/talks/RankAggDec2012.pdf
 
+New Link: https://rdrr.io/rforge/TopKLists/src/R/TopKSpace.R
+
 
 Book: Learning to Rank http://www.cda.cn/uploadfile/image/20151220/20151220115436_46293.pdf
